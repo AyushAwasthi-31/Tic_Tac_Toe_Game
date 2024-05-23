@@ -1,1 +1,1 @@
-# Tic_Tac_Toe_Game
+This project presents a Tic-Tac-Toe game implemented with HTML, CSS, and JavaScript. It features player vs. player mode, responsive design, win/draw detection, and restart functionality. Clone the repository, open index.html in your browser, and enjoy classic gaming on any device.
